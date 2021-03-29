@@ -30,6 +30,7 @@
 
 - Data is scaled (though it wont effect much on tree based models)
 - Done data split for train data
+- SMOT oversampling is done to make up for class imbalance 
 - Trained Random forest, Xg boost and Logistic Regression models 
 - Check for classification report for test data 
 - Done prediction on test data 
