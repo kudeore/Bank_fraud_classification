@@ -38,3 +38,4 @@
 
 - need to do Hyper parameter tuning using Grid CV 
 - need to do K fold cross validation 
+- -different strategies can be tried for missing data imputation and encoding 
